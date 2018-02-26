@@ -30,3 +30,14 @@ p{
   font-size:23px;
   color: white;
 }
+.copywrite{
+  background-color: dimgray;
+  text-align: left;
+}
+.copy{
+  color: white;
+  font-size: 11px;
+}
+a{
+  color: white;
+}
